@@ -1,0 +1,6 @@
+titecrm		Recommend the next dose using the TITE-CRM
+titesim1	Generate a simulated trial using TITE-CRM
+titesim2	Generate a simulated trial using two-stage TITE-CRM
+crmsens		Describe the sensitivity of dose-toxicity model in the CRM
+cohere		Evaluate whether a two-stage TITE-CRM is coherent
+drplot		Plotting of dose-response curve
